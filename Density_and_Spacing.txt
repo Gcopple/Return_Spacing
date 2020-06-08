@@ -1,0 +1,136 @@
+lasinfo (190623) report for '20200403_193011_146_91555_0_0.las'
+number of first returns:        273658301
+number of intermediate returns: 31230430
+number of last returns:         273658539
+number of single returns:       216834018
+covered area in square units/kilounits: 29234088/29.23
+point density: all returns 12.37 last only 9.36 (per square units)
+      spacing: all returns 0.28 last only 0.33 (in units)
+overview over extended number of returns of given pulse: 216834018 65359220 54144457 20787341 4078247 470776 39193 0 0 0 0 0 0 0 0
+lasinfo (190623) report for '20200403_194031_145_91555_0_0.las'
+number of first returns:        386171933
+number of intermediate returns: 50354560
+number of last returns:         386172803
+number of single returns:       297814587
+covered area in square units/kilounits: 34651288/34.65
+point density: all returns 15.15 last only 11.14 (per square units)
+      spacing: all returns 0.26 last only 0.30 (in units)
+overview over extended number of returns of given pulse: 297814587 99945386 84680953 34125260 7269916 953021 95586 0 0 0 0 0 0 0 0
+lasinfo (190623) report for '20200403_200023_144_91555_0_0.las'
+number of first returns:        354592836
+number of intermediate returns: 53139975
+number of last returns:         354594242
+number of single returns:       262956172
+covered area in square units/kilounits: 35914836/35.91
+point density: all returns 13.90 last only 9.87 (per square units)
+      spacing: all returns 0.27 last only 0.32 (in units)
+overview over extended number of returns of given pulse: 262956172 102938793 87742252 36365957 8109201 1131270 127236 0 0 0 0 0 0 0 0
+lasinfo (190623) report for '20200403_201129_143_91555_0_0.las'
+number of first returns:        426978008
+number of intermediate returns: 79389439
+number of last returns:         426981119
+number of single returns:       293149181
+covered area in square units/kilounits: 36335440/36.34
+point density: all returns 17.62 last only 11.75 (per square units)
+      spacing: all returns 0.24 last only 0.29 (in units)
+overview over extended number of returns of given pulse: 293149181 149719459 126273757 55081225 13556099 2145943 273721 0 0 0 0 0 0 0 0
+lasinfo (190623) report for '20200403_202256_142_91555_0_0.las'
+number of first returns:        394702929
+number of intermediate returns: 81002841
+number of last returns:         394709878
+number of single returns:       267221338
+covered area in square units/kilounits: 38707480/38.71
+point density: all returns 15.58 last only 10.20 (per square units)
+      spacing: all returns 0.25 last only 0.31 (in units)
+overview over extended number of returns of given pulse: 267221338 137787719 121581252 57328765 15846826 2952228 476182 0 0 0 0 0 0 0 0
+lasinfo (190623) report for '20200403_203410_141_91555_0_0.las'
+number of first returns:        456047815
+number of intermediate returns: 99099871
+number of last returns:         456058336
+number of single returns:       307696714
+covered area in square units/kilounits: 40399848/40.40
+point density: all returns 17.41 last only 11.29 (per square units)
+      spacing: all returns 0.24 last only 0.30 (in units)
+overview over extended number of returns of given pulse: 307696714 155773188 143196724 70948613 20945304 4224304 724461 0 0 0 0 0 0 0 0
+lasinfo (190623) report for '20200403_204616_140_91555_0_0.las'
+number of first returns:        407127167
+number of intermediate returns: 87400997
+number of last returns:         407136631
+number of single returns:       280286886
+covered area in square units/kilounits: 41692832/41.69
+point density: all returns 14.90 last only 9.77 (per square units)
+      spacing: all returns 0.26 last only 0.32 (in units)
+overview over extended number of returns of given pulse: 280286886 130393974 123916405 63053383 19121548 3929569 676144 0 0 0 0 0 0 0 0
+lasinfo (190623) report for '20200403_205709_139_91555_0_0.las'
+number of first returns:        467451797
+number of intermediate returns: 94146317
+number of last returns:         467461519
+number of single returns:       330253729
+covered area in square units/kilounits: 43460984/43.46
+point density: all returns 16.08 last only 10.76 (per square units)
+      spacing: all returns 0.25 last only 0.30 (in units)
+overview over extended number of returns of given pulse: 330253729 141535050 133480006 68165967 20548293 4135775 687084 0 0 0 0 0 0 0 0
+lasinfo (190623) report for '20200403_210846_138_91555_0_0.las'
+number of first returns:        422392224
+number of intermediate returns: 76887218
+number of last returns:         422401189
+number of single returns:       305198811
+covered area in square units/kilounits: 44233092/44.23
+point density: all returns 13.94 last only 9.55 (per square units)
+      spacing: all returns 0.27 last only 0.32 (in units)
+overview over extended number of returns of given pulse: 305198811 124834703 111674494 54798049 16126736 3266848 582179 0 0 0 0 0 0 0 0
+lasinfo (190623) report for '20200403_212050_137_91555_0_0.las'
+number of first returns:        524739305
+number of intermediate returns: 95934546
+number of last returns:         524751552
+number of single returns:       381549153
+covered area in square units/kilounits: 44847188/44.85
+point density: all returns 17.03 last only 11.70 (per square units)
+      spacing: all returns 0.24 last only 0.29 (in units)
+overview over extended number of returns of given pulse: 381549153 150689713 137049971 68721835 20737664 4331805 796109 0 0 0 0 0 0 0 0
+lasinfo (190623) report for '20200403_213402_136_91555_0_0.las'
+number of first returns:        457516835
+number of intermediate returns: 94425166
+number of last returns:         457525405
+number of single returns:       315412776
+covered area in square units/kilounits: 46768172/46.77
+point density: all returns 14.84 last only 9.78 (per square units)
+      spacing: all returns 0.26 last only 0.32 (in units)
+overview over extended number of returns of given pulse: 315412776 149115846 138242110 67432902 19440166 3791654 619176 0 0 0 0 0 0 0 0
+lasinfo (190623) report for '20200403_214558_135_91555_0_0.las'
+number of first returns:        536936878
+number of intermediate returns: 115750594
+number of last returns:         536947577
+number of single returns:       361032338
+covered area in square units/kilounits: 45478748/45.48
+point density: all returns 18.22 last only 11.81 (per square units)
+      spacing: all returns 0.23 last only 0.29 (in units)
+overview over extended number of returns of given pulse: 361032338 187792428 165803886 83199593 24966068 4997616 810782 0 0 0 0 0 0 0 0
+lasinfo (190623) report for '20200403_215829_134_91555_0_0.las'
+number of first returns:        461739824
+number of intermediate returns: 106615052
+number of last returns:         461751587
+number of single returns:       303979147
+covered area in square units/kilounits: 44839356/44.84
+point density: all returns 16.19 last only 10.30 (per square units)
+      spacing: all returns 0.25 last only 0.31 (in units)
+overview over extended number of returns of given pulse: 303979147 166447276 148127498 77327647 24312859 5075158 857731 0 0 0 0 0 0 0 0
+lasinfo (190623) report for '20200403_221016_133_91555_0_0.las'
+number of first returns:        538858032
+number of intermediate returns: 123136100
+number of last returns:         538877906
+number of single returns:       356600571
+covered area in square units/kilounits: 44585344/44.59
+point density: all returns 18.94 last only 12.09 (per square units)
+      spacing: all returns 0.23 last only 0.29 (in units)
+overview over extended number of returns of given pulse: 356600571 194382723 166955538 88931620 29436471 6682795 1281749 0 0 0 0 0 0 0 0
+lasinfo (190623) report for '20200403_222251_132_91555_0_0.las'
+number of first returns:        450917894
+number of intermediate returns: 95312819
+number of last returns:         450929710
+number of single returns:       300822424
+covered area in square units/kilounits: 43923280/43.92
+point density: all returns 15.85 last only 10.27 (per square units)
+      spacing: all returns 0.25 last only 0.31 (in units)
+overview over extended number of returns of given pulse: 300822424 166486240 133777202 68246212 21561049 4621089 823783 0 0 0 0 0 0 0 0
+
