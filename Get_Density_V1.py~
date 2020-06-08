@@ -1,0 +1,10 @@
+import os
+
+with open("Density_and_Spacing.txt", "r") as f:
+    lines = f.readlines()[7::9]
+    print(lines, "\n" )
+    
+
+
+
+
