@@ -1,9 +1,0 @@
-lasinfo (200509) report for 'BE_012.las'
-number of first returns:        1951840
-number of intermediate returns: 525138
-number of last returns:         1950887
-number of single returns:       1326235
-covered area in square units/kilounits: 1496560/1.50
-point density: all returns 2.07 last only 1.30 (per square units)
-      spacing: all returns 0.69 last only 0.88 (in units)
-overview over extended number of returns of given pulse: 1326235 566904 610635 405038 152595 34383 5840 0 0 0 0 0 0 0 0

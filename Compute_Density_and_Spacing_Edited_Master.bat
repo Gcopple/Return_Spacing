@@ -16,8 +16,9 @@ del filelst.txt
 
 copy *.txt Density_and_Spacing.txt
 
-set VAR_1 = Density_and_Spacing.txt
+set VAR_1=Density_and_Spacing.txt
 
-"C:\Users\gcopple\Desktop\Code_After_Github\Project3\Return_Spacing\WORK\Get_Density_V2.exe %1 %VAR_1%" "C:\Users\gcopple\Desktop\Code_After_Github\Project3\Return_Spacing\WORKGet_Density_V2.py %1 %VAR_1%"
+"Get_Density_V3.exe"
 
+timeout /t 15
 :END

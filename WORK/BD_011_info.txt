@@ -1,9 +1,0 @@
-lasinfo (200509) report for 'BD_011.las'
-number of first returns:        2017379
-number of intermediate returns: 478088
-number of last returns:         2019192
-number of single returns:       1458463
-covered area in square units/kilounits: 1498652/1.50
-point density: all returns 2.04 last only 1.35 (per square units)
-      spacing: all returns 0.70 last only 0.86 (in units)
-overview over extended number of returns of given pulse: 1458463 503930 541626 363877 144536 36775 6989 0 0 0 0 0 0 0 0

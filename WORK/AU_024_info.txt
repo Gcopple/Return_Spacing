@@ -1,9 +1,0 @@
-lasinfo (200509) report for 'AU_024.las'
-number of first returns:        1896241
-number of intermediate returns: 501311
-number of last returns:         1895256
-number of single returns:       1226213
-covered area in square units/kilounits: 1458428/1.46
-point density: all returns 2.10 last only 1.30 (per square units)
-      spacing: all returns 0.69 last only 0.88 (in units)
-overview over extended number of returns of given pulse: 1226213 659154 646658 374179 128444 27634 4313 0 0 0 0 0 0 0 0

@@ -3,7 +3,7 @@ import time
 import sys
 
 file_name = sys.argv[1]
-
+print(file_name)
 if os.path.exists("Spacing_Only.txt"):
     os.remove("Spacing_Only.txt")
     print("Old spacing file removed, Creating new file.")
