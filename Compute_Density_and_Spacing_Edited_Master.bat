@@ -16,9 +16,6 @@ del filelst.txt
 
 copy *.txt Density_and_Spacing.txt
 
-set VAR_1=Density_and_Spacing.txt
+"Get_Spacing.exe"
 
-"Get_Density_V3.exe"
-
-timeout /t 15
 :END
