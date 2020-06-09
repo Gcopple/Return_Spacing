@@ -1,0 +1,9 @@
+lasinfo (200509) report for 'BO_030.las'
+number of first returns:        1832545
+number of intermediate returns: 489934
+number of last returns:         1824604
+number of single returns:       1257917
+covered area in square units/kilounits: 1491516/1.49
+point density: all returns 1.94 last only 1.22 (per square units)
+      spacing: all returns 0.72 last only 0.90 (in units)
+overview over extended number of returns of given pulse: 1257917 512805 548553 380119 150078 34386 5308 0 0 0 0 0 0 0 0
